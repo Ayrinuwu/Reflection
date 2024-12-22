@@ -1,5 +1,4 @@
 package org.example;
-
 /**
  * OtherImpl является классом, реализующий интерфейс SomeInterface
  */
